@@ -65,6 +65,7 @@
 - **Keep a Dev Journal**: Track bugs, insights, and decisions.
 - **Practice Problem Solving**: Use platforms like LeetCode, Codewars, or HackerRank.
 - **Stay Organized**: Use tools like Notion, Obsidian, or markdown notes.
+- **Read the Docs:** Before asking questions or trying to guess—read the official documentation. It’s often the fastest way to understand how something truly works.
 
 ---
 
