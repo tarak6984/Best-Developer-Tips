@@ -9,6 +9,7 @@
 - **Think Long-Term**: Optimize for maintainability, not just speed.
 - **Stay Consistent**: Consistency beats bursts of effort.
 - **Seek Feedback Regularly**: Don’t code in a vacuum.
+- **Embrace Patience:** Complex problems take time to solve. Stay patient, break problems into smaller parts, and trust the process.
 
 ## 🔧 Coding Practices
 - **Write Clean Code**: Readable > Clever.
